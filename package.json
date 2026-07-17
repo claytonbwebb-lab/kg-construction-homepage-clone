@@ -1,0 +1,12 @@
+{
+  "name": "kg-construction-homepage-clone",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "serve .",
+    "build": "echo 'static site'"
+  },
+  "devDependencies": {
+    "serve": "latest"
+  }
+}
